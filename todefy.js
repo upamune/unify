@@ -60,7 +60,7 @@ const todeClear = () => {
 };
 
 const todefy = () => {
-    const blocks = 4;
+    const blocks = 1;
     const size = 200;
     const canvas = document.getElementById('canvas');
     const ctx = canvas.getContext('2d');
