@@ -44,7 +44,7 @@ const makeEntry = (img) => {
     parent.className = 'todefy-pair';
     const marker = document.createElement('p');
     marker.className = 'todefy-marker';
-    marker.textContent = '== todefy! =>';
+    marker.textContent = '== unify! =>';
     const todefied = new Image();
     todefied.className = 'todefied';
     todefied.src = '#';
